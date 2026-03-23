@@ -1,0 +1,1 @@
+print("projeto de análide climática")
